@@ -12,3 +12,6 @@ lune run bot.luau <url> dislike
 ```
 lune run bot.luau <url> like
 ```
+-# Dependencies required to use:
+[Rokit](https://github.com/rojo-rbx/rokit) -- needed to install lune
+[Lune](https://github.com/lune-org/lune) -- needed to run bot.luau
